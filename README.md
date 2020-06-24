@@ -11,6 +11,8 @@
 # Inicializar
 * Abrir la consola y ubicarse en el directorio elegido. 
 * Dar permiso de ejecucion al archivo "EjercicioML.sh" con el comando: chmod +x EjercicioML.sh
-* Y luego ingresar: ./EjercicioML.sh
+* Y luego ingresar: 
+./EjercicioML.sh seller_id
+Como segunda parametro se ingresa el id del vendedor
 
 
